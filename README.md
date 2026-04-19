@@ -1,4 +1,3 @@
-# Resturant_menu
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,9 +8,8 @@
 </head>
 <body>
      <header>
-        <h1> <i>Hotel Padmaja</i>
-        </h1>
-       
+        <h1> <i>Hotel Padmaja</i></h1>
+
     </header>
     <h2>Veg & Non-Veg Meals</h2>
 
